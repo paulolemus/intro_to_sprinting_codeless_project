@@ -4,3 +4,5 @@ You hear about the farmer who won a nobel prize?
 What do airconditioners and computers have in common?
     -They dont work well when you run with windows.
     
+What do you do in case of a fire?
+    -git add *, git commit -m "FIRE", git push
